@@ -1,4 +1,4 @@
-# Sorry Jean 💜
+# Sorry Den  💜
 
 A heartfelt apology website created with HTML, CSS, and JavaScript.
 
